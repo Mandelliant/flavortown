@@ -3,7 +3,7 @@
 body {
     padding:0px;
     margin:0px;
-    background:linear-gradient(0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("https://images.unsplash.com/photo-1491956175078-460aea0914ca?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1550&q=80") center center;
+    background:linear-gradient(0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F117878%252Fcc6e0497-60bd-4970-8c28-be8e9b39bc72.png%252F640x360.png?signature=yJ1penB1B5F3C5B3_pNicxh55Fo=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com") center center;
     background-size:cover;
     width:100vw;
     height:100vh;
